@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://matchamap.de/</loc>
+    <image:image>
+      <image:loc>https://matchamap.de/portrait.jpg</image:loc>
+      <image:title>Profilbild</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://matchamap.de/</loc>
+    <image:image>
+      <image:loc>https://matchamap.de/matcha-powder.jpg</image:loc>
+      <image:title>Matcha-Pulver und Bambusbesen auf rustikalem Tisch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://matchamap.de/</loc>
+    <image:image>
+      <image:loc>https://matchamap.de/matcha-latte.jpg</image:loc>
+      <image:title>Matcha Latte mit Latte Art in Herzform</image:title>
+    </image:image>
+  </url>
+</urlset>
